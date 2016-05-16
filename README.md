@@ -8,6 +8,11 @@ Get Started
 
 Phalcon is written in Zephir/C with platform independence in mind. As a result, Phalcon is available on Microsoft Windows, GNU/Linux, and Mac OS X. You can either download a binary package for the system of your choice or build it from source.
 
+PhalconPHP 是一个使用 C 扩展开发的 PHP Web 框架，提供高性能和低资源占用。
+
+Phalcon 是一个开源的、全堆栈的 PHP 5 框架，使用 C 扩展编写，专门为高性能优化。无需学习和使用 C 语言，所有函数都以 PHP 类的方式曾现。Phalcon 是一个松耦合的框架。
+
+使用时需在 php.ini 中添加：extension=phalcon.so
 ### Windows
 
 To install Phalcon on Windows:
